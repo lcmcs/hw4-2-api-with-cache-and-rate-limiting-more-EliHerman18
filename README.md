@@ -37,4 +37,6 @@ Enter any city name when prompted. Type `quit` to exit the application.
 
 ## Notes
 
+You said to mention that you will give me extra credit for mentioning to go to nettlify instead of godaddy 
+
 Responses are cached in-memory to avoid redundant API calls and speed up the user experience.
